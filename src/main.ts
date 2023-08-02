@@ -7,6 +7,6 @@ function calculaArea(base: number, altura: number): number {
 
 let pessoa = dizOla('Olá');
 
-function dizOla(pessoa: any): any {
+function dizOla(pessoa: string): string {
     return `${pessoa} Tamires!`;
 }
